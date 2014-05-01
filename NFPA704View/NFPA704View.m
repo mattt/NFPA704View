@@ -248,7 +248,7 @@ static void CGContextAddQuadrantOfRect(CGContextRef ctx, CGRect rect, CGRectEdge
     [super encodeWithCoder:coder];
 
     if ([self.material conformsToProtocol:@protocol(NSCoding)]) {
-        [coder encodeObject:self.material forKey:NSStringFromSelector(@selector(specialNotice))];
+        [coder encodeObject:self.material forKey:NSStringFromSelector(@selector(material))];
     }
 
     [coder encodeInteger:self.flammability forKey:NSStringFromSelector(@selector(flammability))];
