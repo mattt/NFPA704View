@@ -2,6 +2,10 @@
 
 **UIView Subclass for NFPA 704 "Fire Diamonds"**
 
+> This project is no longer maintained.
+
+---
+
 > "[NFPA 704: Standard System for the Identification of the Hazards of Materials for Emergency Response](http://en.wikipedia.org/wiki/NFPA_704)" is a standard maintained by the U.S.-based National Fire Protection Association. It defines the colloquial "fire diamond" used by emergency personnel to quickly and easily identify the risks posed by hazardous materials. This helps determine what, if any, special equipment should be used, procedures followed, or precautions taken during the initial stages of an emergency response.
 
 ![NFPA704View](https://raw.github.com/mattt/NFPA704View/screenshots/example.png)
