@@ -6,8 +6,6 @@
 
 ![NFPA704View](https://raw.github.com/mattt/NFPA704View/screenshots/example.png)
 
-> This project was used as a case study in ["Software Design & Eclecticism"](https://speakerdeck.com/mattt/software-design-and-eclecticism), presented at [NSConference](http://nsconference.com) on March 19, 2014.
-
 ## Usage
 
 ### Setting Hazards Manually
@@ -41,9 +39,9 @@ fireDiamondView.material = [Chemical CH3CH2OH] // Ethyl Alcohol
 
 ### Contact
 
-[Mattt Thompson](http://github.com/mattt)
-[@mattt](https://twitter.com/mattt)
+[Mattt](https://twitter.com/mattt)
 
 ## License
 
-NFPA704View is available under the MIT license. See the LICENSE file for more info.
+NFPA704View is available under the MIT license.
+See the LICENSE file for more info.
